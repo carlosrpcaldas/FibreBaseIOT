@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "46119283059",
+    "firebase_url": "https://mobiot-fd66b.firebaseio.com",
+    "project_id": "mobiot-fd66b",
+    "storage_bucket": "mobiot-fd66b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46119283059:android:c4c9c61dc13f8935",
+        "android_client_info": {
+          "package_name": "com.example.logonrmlocal.fibrebaseiot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46119283059-v8q6atanui5k09sk3vha600fjlme183c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.logonrmlocal.fibrebaseiot",
+            "certificate_hash": "beb224284730e1ec2ea6857c4e52af0c0438cd6c"
+          }
+        },
+        {
+          "client_id": "46119283059-pi06hqoueucrp424gfggobr96cvb2krn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3ILmIOhHHsbLS8Tq0PP177UrU1hpx2ic"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46119283059-pi06hqoueucrp424gfggobr96cvb2krn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
